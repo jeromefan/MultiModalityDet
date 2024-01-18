@@ -1,6 +1,6 @@
 # MultiModalityDet
 
-## Install
+## Installation
 
 ```bash
 conda create -n mmd python=3.8 -y
@@ -12,4 +12,6 @@ mim install mmengine==0.8.4 -i https://pypi.tuna.tsinghua.edu.cn/simple
 mim install mmcv==2.0.0 -i https://pypi.tuna.tsinghua.edu.cn/simple
 mim install mmdet==3.0.0 -i https://pypi.tuna.tsinghua.edu.cn/simple
 mim install mmdet3d==1.1.0 -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+git clone 
 ```
