@@ -13,5 +13,11 @@ mim install mmcv==2.0.0 -i https://pypi.tuna.tsinghua.edu.cn/simple
 mim install mmdet==3.0.0 -i https://pypi.tuna.tsinghua.edu.cn/simple
 mim install mmdet3d==1.1.0 -i https://pypi.tuna.tsinghua.edu.cn/simple
 
-git clone 
+git clone https://github.com/jeromefan/MultiModalityDet.git
+cd MultiModalityDet
+python projects/BEVFusion/setup.py develop
 ```
+
+## Object Detection - BEVFusion
+
+python 
